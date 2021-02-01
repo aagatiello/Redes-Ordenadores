@@ -1,2 +1,2 @@
-# Redes-Ordenadores
-Prácticas Redes curso 2019/2020
+# Prácticas Redes de Ordenadores
+
